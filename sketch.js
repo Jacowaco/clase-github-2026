@@ -1,6 +1,6 @@
 
 let c = [];
-let cantidad = 1000;
+let cantidad = 500;
 
 function setup() {
   createCanvas(windowWidth, windowHeight);

@@ -4,7 +4,7 @@ class Caminante{
     constructor(){
         this.x = random( width );
         this.y = random( height );
-        this.t = 5;
+        this.t = 8;
         this.vel = 4;
         this.dir = random( TWO_PI );
         push();
