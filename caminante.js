@@ -5,7 +5,7 @@ class Caminante{
         this.x = random( width );
         this.y = random( height );
         this.t = 8;
-        this.vel = 400;
+        this.vel = 4;
         this.dir = random( TWO_PI );
         push();
         colorMode( HSB , 360 , 100 , 100 );
